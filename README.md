@@ -1,2 +1,3 @@
 # ArcomX
-Proyecto ArcomX - simulador muebles 
+Proyecto ArcomX  
+Simulador para hacer mas eficacez las compras de las salas y muebles 
